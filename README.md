@@ -11,3 +11,11 @@ How to use the dataset: [Jupyter Notebook example](https://github.com/Geoscience
 Download the dataset: [Earthquake Mapping Tool](http://www.ga.gov.au/earthquakes/searchQuake.do)
 
 How to use the dataset: [Jupyter Notebook example](https://github.com/GeoscienceAustralia/GovHack-2017/blob/master/Earthquakes%20-%20Getting%20Started.ipynb)
+
+## License
+This code repo is licensed under an Aapche 2.0 license. See the [license deed](LICENSE).
+
+## Contacts
+**Jonathan Mettes**  
+*Developer*  
+<jonathan.mettes@ga.gov.au>  
